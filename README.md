@@ -17,3 +17,5 @@ Juego de Ruleta Contable (sin embargo las preguntas pueden ser de cualquier índ
 
 ![captura](images/captura-1.png)
 ![captura](images/captura-2.png)
+
+~~2-2018/independiente/roulette~~
