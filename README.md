@@ -14,3 +14,6 @@ Juego de Ruleta Contable (sin embargo las preguntas pueden ser de cualquier índ
 - Bootstrap v4.1.3 (incluyendo Popper)
 
 ## Capturas
+
+![captura](images/captura-1.png)
+![captura](images/captura-2.png)
